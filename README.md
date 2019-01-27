@@ -12,6 +12,11 @@ Teeam 17
   of the program. Our robot successfully achieved all the required taks. 
   
 # Technologies:
-  Development language: Java
-  External librairy: LeJOS
-  IDE: Eclipse Oxygen
+<ul>
+  <li>Development language: Java </li>
+  <li>External librairy: LeJOS</li>
+  <li>IDE: Eclipse Oxygen</li>
+</ul>
+  
+  
+  
